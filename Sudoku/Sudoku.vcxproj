@@ -138,7 +138,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Check.c" />
+    <ClCompile Include="Generator.c" />
+    <ClCompile Include="Maximieren.c" />
     <ClCompile Include="Main.c" />
+    <ClCompile Include="Print.c" />
+    <ClCompile Include="Usereingaben.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Check.h" />
+    <ClInclude Include="Generator.h" />
+    <ClInclude Include="Maximieren.h" />
+    <ClInclude Include="Print.h" />
+    <ClInclude Include="Usereingaben.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

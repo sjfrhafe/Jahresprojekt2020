@@ -18,5 +18,37 @@
     <ClCompile Include="Main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Generator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Print.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Maximieren.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Usereingaben.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Check.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Generator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Print.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Maximieren.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Usereingaben.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Check.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
