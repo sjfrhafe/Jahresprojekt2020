@@ -140,16 +140,29 @@
   <ItemGroup>
     <ClCompile Include="Check.c" />
     <ClCompile Include="Generator.c" />
+    <ClCompile Include="Spieler_Einloggen.c" />
     <ClCompile Include="Maximieren.c" />
     <ClCompile Include="Main.c" />
     <ClCompile Include="Print.c" />
+    <ClCompile Include="Spieler_Registrieren.c" />
+    <ClCompile Include="Spieler_Eintragen.c" />
+    <ClCompile Include="Bestenliste.c" />
+    <ClCompile Include="sqlite3.c" />
+    <ClCompile Include="Tabellen.c" />
     <ClCompile Include="Usereingaben.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Check.h" />
     <ClInclude Include="Generator.h" />
+    <ClInclude Include="Spieler_Einloggen.h" />
     <ClInclude Include="Maximieren.h" />
     <ClInclude Include="Print.h" />
+    <ClInclude Include="Spieler_Registrieren.h" />
+    <ClInclude Include="Spieler_Eintragen.h" />
+    <ClInclude Include="Bestenliste.h" />
+    <ClInclude Include="sqlite3.h" />
+    <ClInclude Include="sqlite3ext.h" />
+    <ClInclude Include="Tabellen.h" />
     <ClInclude Include="Usereingaben.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

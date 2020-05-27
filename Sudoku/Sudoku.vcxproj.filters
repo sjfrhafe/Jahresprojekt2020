@@ -33,6 +33,24 @@
     <ClCompile Include="Check.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sqlite3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bestenliste.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Spieler_Eintragen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Spieler_Registrieren.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Spieler_Einloggen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tabellen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Generator.h">
@@ -48,6 +66,27 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Check.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sqlite3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sqlite3ext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Spieler_Einloggen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Spieler_Registrieren.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Spieler_Eintragen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bestenliste.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tabellen.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
